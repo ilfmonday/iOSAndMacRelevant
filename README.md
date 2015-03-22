@@ -1,2 +1,4 @@
 ## 自己的一些配置
-更新一条
+### xcode snip
+地址：~/Library/Developer/Xcode/UserData/CodeSnippets
+
