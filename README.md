@@ -1,4 +1,6 @@
-## 自己的一些配置
+## XCode and iOS relavent Tools
 ### xcode snip
-地址：~/Library/Developer/Xcode/UserData/CodeSnippets
+Location：~/Library/Developer/Xcode/UserData/CodeSnippets
+### Shell script to remove unused png images in project
+
 
