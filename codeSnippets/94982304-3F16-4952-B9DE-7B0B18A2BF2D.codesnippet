@@ -6,7 +6,7 @@
 	<string>lgglogerr</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>lggLogErr(@"LGG# &lt;#内容#&gt;",&lt;#参数#&gt;);</string>
